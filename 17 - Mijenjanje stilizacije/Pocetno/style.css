@@ -1,1 +1,8 @@
-.info {}
+.info.hide {
+    display: none;
+}
+
+/*drugi način*/
+.hide1 {
+    display: none;
+}
